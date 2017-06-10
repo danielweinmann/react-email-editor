@@ -1,2 +1,2 @@
 # react-email-editor
-Opinionated responsive email editor with React components and MJML
+An opinionated responsive email editor powered by React and MJML
